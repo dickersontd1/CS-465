@@ -1,4 +1,4 @@
-# CS-465
+# CS-465 Tyler Dickerson ReadMe
 # Full Stack Web Application - Final Project
 
 ## Project Overview
